@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+# CodeBlog
+Share your coding journey effortlessly. Integrate GitHub repos, post, comment, delete, and write descriptions. Connect with fellow developers. Join the coding community now!
+=======
 # Project Name: CodeBlog
 # Description
 Share your coding journey effortlessly. Integrate GitHub repos, post, comment, delete, and write descriptions. Connect with fellow developers. Join the coding community now!
@@ -7,3 +11,4 @@ Share your coding journey effortlessly. Integrate GitHub repos, post, comment, d
 ![Screenshot (25)](https://github.com/sakil786-java/CodeBlog/assets/106463224/95f3b52b-4bc0-4cd4-8c7f-0ef77479283f)
 ![Screenshot (26)](https://github.com/sakil786-java/CodeBlog/assets/106463224/57302e66-0477-402e-bc92-2fb6420e1537)
 ![Screenshot (27)](https://github.com/sakil786-java/CodeBlog/assets/106463224/1313e49f-f0ad-407f-9f9d-5280a4b7de57)
+>>>>>>> origin/master
